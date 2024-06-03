@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhuowei XU"
-description              : &description "Zhuowei XU's Homepage"
+description              : # &description "Zhuowei XU's Homepage"
 repository               : "zw-xxx/zw-xxx.github.io"
 google_scholar_stats_use_cdn : false
 
