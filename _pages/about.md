@@ -29,8 +29,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📑 Standardization
 **VVC/H266**
-- AHG12: Local-Boosting on Cross-Component Merge Mode. <span style="color: #305C84">JVET-AF0114</span>
-- AHG12: Regularized EIP. <span style="color: #305C84">JVET-AH0095</span>
+- AHG12: Local-Boosting on Cross-Component Merge Mode. <span style="color: #305C84"><i>JVET-AF0114</i></span>
+- AHG12: Regularized EIP. <span style="color: #305C84"><i>JVET-AH0095</i></span>
 
 # 📝 Publications 
 **Compression -related**
