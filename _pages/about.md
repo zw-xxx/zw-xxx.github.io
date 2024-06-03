@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a standardization engineer of Video Codec Working Group in The Creative Life (TCL). I have actively participated development of AI-powered video coding standardization, e.g., Neural network-based Video Coding (NNVC), JPEG-AI. I have also worked on various topics including neural network-based video codecs, video quality assessment, neural network model optimization and deployment for video compression system.
+I am currently a standardization engineer of Video Codec Working Group in The Creative Life (TCL). I have actively participated development of AI-powered video coding standardization, <i>e.g.</i>, Neural network-based Video Coding (NNVC), JPEG-AI. I have also worked on various topics including neural network-based video codecs, video quality assessment, neural network model optimization and deployment for video compression system.
 
 <!--  
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -34,20 +34,20 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 **Compression -related**
-- Perceptually Quasi-Lossless Compression of Screen Content Data Via Visibility Modeling and Deep Forecasting. <span style="color: #305C84"> IEEE Transactions on Industrial Informatics (T-II)</span>
+- Perceptually Quasi-Lossless Compression of Screen Content Data Via Visibility Modeling and Deep Forecasting. <span style="color: #305C84"><i>IEEE Transactions on Industrial Informatics (T-II)</i></span>
 
 **Quality Assessment -related**
-- MSCI: A Multi-Source Composite Image Database for Compression Distortion Quality Assessment. <span style="color: #305C84"> IEEE International Conference on Visual Communications and Image Processing (VCIP)</span>
+- MSCI: A Multi-Source Composite Image Database for Compression Distortion Quality Assessment. <span style="color: #305C84"><i>IEEE International Conference on Visual Communications and Image Processing (VCIP)</i></span>
 - S-CCR: Super-Complete Comparative Representation for Low-Light Image Quality Inference In-the-wild.
-<span style="color: #305C84"> ACM International Conference on Multimedia (MM)</span>
+<span style="color: #305C84"><i>ACM International Conference on Multimedia (MM)</i></span>
   
 **Model Optimization -related**
 - BinaryFormer: A Hierarchical-Adaptive Binary Vision Transformer (ViT) for Efficient Computing.
-<span style="color: #305C84"> IEEE Transactions on Industrial Informatics (T-II)</span>
+<span style="color: #305C84"><i>IEEE Transactions on Industrial Informatics (T-II)</i></span>
 - ReferPose: Distance Optimization-Based Reference Learning for Human Pose Estimation and Monitoring.
-<span style="color: #305C84"> IEEE Transactions on Industrial Informatics (T-II)</span>
+<span style="color: #305C84"><i>IEEE Transactions on Industrial Informatics (T-II)</i></span>
 - Deep Human Pose Estimation via Self-guided Learning.
-<span style="color: #305C84"> Springer International Conference on Image and Graphics (ICIG 2021)</span>
+<span style="color: #305C84"><i>Springer International Conference on Image and Graphics (ICIG)</i></span>
 
 <!--  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
