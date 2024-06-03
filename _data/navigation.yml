@@ -3,8 +3,8 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Standard contributions"
-    url: "/#-standard contributions"
+  - title: "Standardization"
+    url: "/#-standardization"
 
   - title: "Publications"
     url: "/#-publications"
