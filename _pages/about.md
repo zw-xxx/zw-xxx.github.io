@@ -27,17 +27,21 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
+# 📑 Standard contributions
+**VVC/H266**
+- AHG12: Local-Boosting on Cross-Component Merge Mode. <span style="color: #305C84">JVET-AF0114</span>
+- AHG12: Regularized EIP. <span style="color: #305C84">JVET-AH0095</span>
 
 # 📝 Publications 
-**Compression -related**<br>
+**Compression -related**
 - Perceptually Quasi-Lossless Compression of Screen Content Data Via Visibility Modeling and Deep Forecasting <span style="color: #305C84"> IEEE Transactions on Industrial Informatics (T-II)</span>
 
-**Quality Assessment -related**<br>
+**Quality Assessment -related**
 - MSCI: A Multi-Source Composite Image Database for Compression Distortion Quality Assessment <span style="color: #305C84"> IEEE International Conference on Visual Communications and Image Processing (VCIP)</span>
 - S-CCR: Super-Complete Comparative Representation for Low-Light Image Quality Inference In-the-wild
 <span style="color: #305C84"> ACM International Conference on Multimedia (MM)</span>
   
-**Model Optimization -related**<br>
+**Model Optimization -related**
 - BinaryFormer: A Hierarchical-Adaptive Binary Vision Transformer (ViT) for Efficient Computing
 <span style="color: #305C84"> IEEE Transactions on Industrial Informatics (T-II)</span>
 - ReferPose: Distance Optimization-Based Reference Learning for Human Pose Estimation and Monitoring
