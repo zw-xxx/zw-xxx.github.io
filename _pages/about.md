@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  ul{
+    list-style: square;
+  }
+</style>
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -34,19 +40,21 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 **Compression -related**
-- Perceptually Quasi-Lossless Compression of Screen Content Data Via Visibility Modeling and Deep Forecasting. <span style="color: #305C84"><i>IEEE Transactions on Industrial Informatics (T-II)</i></span>
+- Perceptually Quasi-Lossless Compression of Screen Content Data Via Visibility Modeling and Deep Forecasting.<br>
+<span style="color: #305C84"><i>IEEE Transactions on Industrial Informatics (T-II)</i></span>
 
 **Quality Assessment -related**
-- MSCI: A Multi-Source Composite Image Database for Compression Distortion Quality Assessment. <span style="color: #305C84"><i>IEEE International Conference on Visual Communications and Image Processing (VCIP)</i></span>
-- S-CCR: Super-Complete Comparative Representation for Low-Light Image Quality Inference In-the-wild.
+- MSCI: A Multi-Source Composite Image Database for Compression Distortion Quality Assessment.<br>
+<span style="color: #305C84"><i>IEEE International Conference on Visual Communications and Image Processing (VCIP)</i></span>
+- S-CCR: Super-Complete Comparative Representation for Low-Light Image Quality Inference In-the-wild.<br>
 <span style="color: #305C84"><i>ACM International Conference on Multimedia (MM)</i></span>
   
 **Model Optimization -related**
-- BinaryFormer: A Hierarchical-Adaptive Binary Vision Transformer (ViT) for Efficient Computing.
+- BinaryFormer: A Hierarchical-Adaptive Binary Vision Transformer (ViT) for Efficient Computing.<br>
 <span style="color: #305C84"><i>IEEE Transactions on Industrial Informatics (T-II)</i></span>
-- ReferPose: Distance Optimization-Based Reference Learning for Human Pose Estimation and Monitoring.
+- ReferPose: Distance Optimization-Based Reference Learning for Human Pose Estimation and Monitoring.<br>
 <span style="color: #305C84"><i>IEEE Transactions on Industrial Informatics (T-II)</i></span>
-- Deep Human Pose Estimation via Self-guided Learning.
+- Deep Human Pose Estimation via Self-guided Learning.<br>
 <span style="color: #305C84"><i>Springer International Conference on Image and Graphics (ICIG)</i></span>
 
 <!--  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
