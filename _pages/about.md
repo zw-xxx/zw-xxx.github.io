@@ -42,6 +42,8 @@ I am currently a standardization engineer of Video Codec Working Group in The Cr
 <span style="color: #305C84"><i>IEEE Transactions on Industrial Informatics (T-II)</i></span>
 
 **Quality Assessment -related**
+- Blind Multimodal Quality Assessment of Low-light Images. <br>
+<span style="color: #305C84"><i>Springer International Journal of Computer Vision (IJCV)</i></span>
 - MSCI: A Multi-Source Composite Image Database for Compression Distortion Quality Assessment.<br>
 <span style="color: #305C84"><i>IEEE International Conference on Visual Communications and Image Processing (VCIP)</i></span>
 - S-CCR: Super-Complete Comparative Representation for Low-Light Image Quality Inference In-the-wild.<br>
