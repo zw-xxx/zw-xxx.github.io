@@ -23,7 +23,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a standardization engineer of Video Codec Working Group in The Creative Life (TCL). I have actively participated development of AI-powered video coding standardization, <i>e.g.</i>, Neural network-based Video Coding (NNVC), JPEG-AI. I have also worked on various topics including neural network-based video codecs, video quality assessment, neural network model optimization and deployment for video compression system.
+I am currently a standardization engineer of Video Coding Working Group in The Creative Life (TCL). I have actively participated development of AI-powered video coding standardization, <i>e.g.</i>, Neural network-based Video Coding (NNVC), JPEG-AI. I have also worked on various topics including neural network-based codecs, quality assessment, model optimization and deployment for compression system.
 
 <!--  
 
