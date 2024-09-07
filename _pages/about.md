@@ -75,7 +75,8 @@ I am currently a standardization engineer of Video Coding Working Group in The C
 # 🎖 Honors and Awards
 - Excellent Master Dissertation
 - Excellent Master Graduates
-- National Scholarship. 
+- National Scholarship.
+- Excellent Academics Scholarship.
 
 
 <!-- # 📖 Educations
