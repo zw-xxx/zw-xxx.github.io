@@ -51,9 +51,9 @@ I am currently a standardization engineer of Video Coding Working Group in The C
   
 **Model Optimization -related**
 - BinaryFormer: A Hierarchical-Adaptive Binary Vision Transformer (ViT) for Efficient Computing.<br>
-<span style="color: #305C84"><i>IEEE Transactions on Industrial Informatics (T-II)</i></span>. Impact Factor: 12.3
+<span style="color: #305C84"><i>IEEE Transactions on Industrial Informatics (T-II)</i></span>. Impact factor: 12.3
 - ReferPose: Distance Optimization-Based Reference Learning for Human Pose Estimation and Monitoring.<br>
-<span style="color: #305C84"><i>IEEE Transactions on Industrial Informatics (T-II)</i></span>. Impact Factor: 12.3
+<span style="color: #305C84"><i>IEEE Transactions on Industrial Informatics (T-II)</i></span>. Impact factor: 12.3
 - Deep Human Pose Estimation via Self-guided Learning.<br>
 <span style="color: #305C84"><i>Springer International Conference on Image and Graphics (ICIG)</i></span>
 
