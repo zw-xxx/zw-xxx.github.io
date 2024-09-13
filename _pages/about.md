@@ -39,11 +39,11 @@ I am currently a standardization engineer of Video Coding Working Group in The C
 # 📝 Publications 
 **Compression -related**
 - Perceptually Quasi-Lossless Compression of Screen Content Data Via Visibility Modeling and Deep Forecasting.<br>
-<span style="color: #305C84"><i>IEEE Transactions on Industrial Informatics (T-II)</i></span>
+<span style="color: #305C84"><i>IEEE Transactions on Industrial Informatics (T-II)</i></span>, IF=11.7
 
 **Quality Assessment -related**
 - Blind Multimodal Quality Assessment of Low-light Images. <br>
-<span style="color: #305C84"><i>Springer International Journal of Computer Vision (IJCV)</i></span>
+<span style="color: #305C84"><i>Springer International Journal of Computer Vision (IJCV)</i></span>, IF=19.5
 - MSCI: A Multi-Source Composite Image Database for Compression Distortion Quality Assessment.<br>
 <span style="color: #305C84"><i>IEEE International Conference on Visual Communications and Image Processing (VCIP)</i></span>
 - S-CCR: Super-Complete Comparative Representation for Low-Light Image Quality Inference In-the-wild.<br>
@@ -51,9 +51,9 @@ I am currently a standardization engineer of Video Coding Working Group in The C
   
 **Model Optimization -related**
 - BinaryFormer: A Hierarchical-Adaptive Binary Vision Transformer (ViT) for Efficient Computing.<br>
-<span style="color: #305C84"><i>IEEE Transactions on Industrial Informatics (T-II)</i></span>
+<span style="color: #305C84"><i>IEEE Transactions on Industrial Informatics (T-II)</i></span>, IF=12.3
 - ReferPose: Distance Optimization-Based Reference Learning for Human Pose Estimation and Monitoring.<br>
-<span style="color: #305C84"><i>IEEE Transactions on Industrial Informatics (T-II)</i></span>
+<span style="color: #305C84"><i>IEEE Transactions on Industrial Informatics (T-II)</i></span>, IF=12.3
 - Deep Human Pose Estimation via Self-guided Learning.<br>
 <span style="color: #305C84"><i>Springer International Conference on Image and Graphics (ICIG)</i></span>
 
