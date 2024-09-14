@@ -28,7 +28,12 @@ layout: compress
     </div>
 
     {% include scripts.html %}
-    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=0&t=n&d=nY4jBC3mbOLWbSnZXrngdGxJrWWe0d6eGu0hYKoXEg8&co=ffffff&cmo=ffffff&cmn=ffffff&ct=ffffff'></script>
+    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=0&t=n&d=nY4jBC3mbOLWbSnZXrngdGxJrWWe0d6eGu0hYKoXEg8&co=ffffff&cmo=ffffff&cmn=ffffff&ct=ffffff'>
+    .clustrmaps-loading {
+      display: none;
+    }
+  </style>
+    </script>
 
   </body>
 </html>
