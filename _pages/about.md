@@ -89,6 +89,6 @@ I am currently a standardization engineer of Video Coding Working Group in The C
 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. --> 
 
 
