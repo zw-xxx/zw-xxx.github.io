@@ -32,11 +32,20 @@ I am currently a standardization engineer of Video Coding Working Group in The C
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📑 Standardization
-**VVC/H266**
-- AHG12: Local-Boosting on Cross-Component Merge Mode. <span style="color: #305C84"><i>JVET-AF0114</i></span>
-- AHG12: Regularized EIP. <span style="color: #305C84"><i>JVET-AH0095</i></span>
+**NN-based Codec**
+- AhG11: Post-facto dimension-wise decomposition of multiplier for content-adaptive loop-filter. <span style="color: #305C84"><i>JVET-AJ0199</i></span>
+- AhG11: Dimension-wise decomposed multiplier for content-adaptive loop-filter. <span style="color: #305C84"><i>JVET-AJ0200</i></span>
 
-# 📝 Publications 
+**Conventional Codec**
+- EE2-2.11: DIMD with 2x2 edge operator applied to small blocks. <span style="color: #305C84"><i>JVET-AJ0203</i></span>
+- EE2-2.7: Regularized EIP/CCCM. <span style="color: #305C84"><i>JVET-AI0066</i></span>
+- Non-EE2: On DIMD edge operators. <span style="color: #305C84"><i>JVET-AI0140</i></span>
+- Non-EE2: Unified design of DIMD and non-adjacent DIMD. <span style="color: #305C84"><i>JVET-AI0149</i></span>
+- AHG12: Regularized EIP. <span style="color: #305C84"><i>JVET-AH0095</i></span>
+- AHG12: Local-Boosting on Cross-Component Merge Mode. <span style="color: #305C84"><i>JVET-AF0114</i></span>
+
+
+# 📝 Publications (Selected)
 **Compression -related**
 - Perceptually Quasi-Lossless Compression of Screen Content Data Via Visibility Modeling and Deep Forecasting.<br>
 <span style="color: #305C84"><i>IEEE Transactions on Industrial Informatics (T-II)</i></span>. Impact factor: 11.7
