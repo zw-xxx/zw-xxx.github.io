@@ -32,7 +32,7 @@ I am currently a standardization engineer of Video Coding Working Group in The C
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📑 Standardization
-**NN-based Codec**
+**Intelligent Codec**
 - AhG11: Post-facto dimension-wise decomposition of multiplier for content-adaptive loop-filter. <span style="color: #305C84"><i>JVET-AJ0199</i></span>
 - AhG11: Dimension-wise decomposed multiplier for content-adaptive loop-filter. <span style="color: #305C84"><i>JVET-AJ0200</i></span>
 
