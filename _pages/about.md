@@ -45,7 +45,7 @@ I am currently a standardization engineer of Video Coding Working Group in The C
 - AHG12: Local-Boosting on Cross-Component Merge Mode. <span style="color: #305C84"><i>JVET-AF0114</i></span>
 
 
-# 📝 Publications (Selected)
+# 📝 Publications
 **Compression -related**
 - Perceptually Quasi-Lossless Compression of Screen Content Data Via Visibility Modeling and Deep Forecasting.<br>
 <span style="color: #305C84"><i>IEEE Transactions on Industrial Informatics (T-II)</i></span>. Impact factor: 11.7
