@@ -54,7 +54,7 @@ I am currently a standardization engineer of Video Coding Working Group in The C
 - Blind Multimodal Quality Assessment of Low-light Images. <br>
 <span style="color: #305C84"><i>Springer International Journal of Computer Vision (IJCV)</i></span>. Impact factor: 19.5
 - MSCI: A Multi-Source Composite Image Database for Compression Distortion Quality Assessment.<br>
-<span style="color: #305C84"><i>IEEE International Conference on Visual Communications and Image Processing (VCIP)</i></span>
+<span style="color: #305C84"><i>IEEE International Conference on Visual Communications and Image Processing (VCIP)</i></span>. Oral
 - S-CCR: Super-Complete Comparative Representation for Low-Light Image Quality Inference In-the-wild.<br>
 <span style="color: #305C84"><i>ACM International Conference on Multimedia (MM)</i></span>
   
